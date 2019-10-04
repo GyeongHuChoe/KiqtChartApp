@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiqtChartApp", "KiqtChartApp\KiqtChartApp.csproj", "{D5C13406-AD94-4690-9D3E-990257746DDE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{3F98A628-93A0-4756-8F63-B6DD0693F327}"
+	ProjectSection(SolutionItems) = preProject
+		Table.sql = Table.sql
+		프로젝트설명.txt = 프로젝트설명.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiqtChartApp2", "KiqtChartApp2\KiqtChartApp2.csproj", "{715F63AF-9742-4C05-AC33-A429BA0BBA8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KiqtChartApp3", "KiqtChartApp3\KiqtChartApp3.csproj", "{AD82A3CF-7C76-4DDF-A7F2-4DA9C1BA89E7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5C13406-AD94-4690-9D3E-990257746DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5C13406-AD94-4690-9D3E-990257746DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5C13406-AD94-4690-9D3E-990257746DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5C13406-AD94-4690-9D3E-990257746DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{715F63AF-9742-4C05-AC33-A429BA0BBA8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715F63AF-9742-4C05-AC33-A429BA0BBA8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715F63AF-9742-4C05-AC33-A429BA0BBA8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715F63AF-9742-4C05-AC33-A429BA0BBA8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD82A3CF-7C76-4DDF-A7F2-4DA9C1BA89E7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD82A3CF-7C76-4DDF-A7F2-4DA9C1BA89E7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD82A3CF-7C76-4DDF-A7F2-4DA9C1BA89E7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD82A3CF-7C76-4DDF-A7F2-4DA9C1BA89E7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA8F50BE-E9E2-45B2-89BD-9225255EDE92}
+	EndGlobalSection
+EndGlobal
